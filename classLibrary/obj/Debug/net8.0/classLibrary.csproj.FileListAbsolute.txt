@@ -1,0 +1,11 @@
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\obj\Debug\net8.0\classLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\obj\Debug\net8.0\classLibrary.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\obj\Debug\net8.0\classLibrary.AssemblyInfo.cs
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\obj\Debug\net8.0\classLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\bin\Debug\net8.0\classLibrary.deps.json
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\bin\Debug\net8.0\classLibrary.dll
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\bin\Debug\net8.0\classLibrary.pdb
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\obj\Debug\net8.0\classLibrary.dll
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\obj\Debug\net8.0\refint\classLibrary.dll
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\obj\Debug\net8.0\classLibrary.pdb
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\obj\Debug\net8.0\ref\classLibrary.dll

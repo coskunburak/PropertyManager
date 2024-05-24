@@ -1,0 +1,16 @@
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\bin\Debug\net8.0-windows\classLibrary.exe
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\bin\Debug\net8.0-windows\classLibrary.deps.json
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\bin\Debug\net8.0-windows\classLibrary.runtimeconfig.json
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\bin\Debug\net8.0-windows\classLibrary.dll
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\bin\Debug\net8.0-windows\classLibrary.pdb
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\obj\Debug\net8.0-windows\classLibrary.Form1.resources
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\obj\Debug\net8.0-windows\classLibrary.csproj.GenerateResource.cache
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\obj\Debug\net8.0-windows\classLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\obj\Debug\net8.0-windows\classLibrary.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\obj\Debug\net8.0-windows\classLibrary.AssemblyInfo.cs
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\obj\Debug\net8.0-windows\classLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\obj\Debug\net8.0-windows\classLibrary.dll
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\obj\Debug\net8.0-windows\refint\classLibrary.dll
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\obj\Debug\net8.0-windows\classLibrary.pdb
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\obj\Debug\net8.0-windows\classLibrary.genruntimeconfig.cache
+C:\Users\Burak\Desktop\c# Projeleri\classLibrary\classLibrary\obj\Debug\net8.0-windows\ref\classLibrary.dll
